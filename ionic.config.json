@@ -1,0 +1,7 @@
+{
+  "name": "vue-router-ts-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
